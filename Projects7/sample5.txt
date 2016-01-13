@@ -1,0 +1,37 @@
+Would you like to enter a file name to initialize the checkout? (y/n) -> n
+
+0) Checkout
+1) Add Item
+2) Remove Item
+3) Add Coupon
+4) Set Bonus
+5) Print Receipt
+Choice -> 4
+Enter the bonus percentage -> 15
+Bonus applied!
+
+0) Checkout
+1) Add Item
+2) Remove Item
+3) Add Coupon
+4) Set Bonus
+5) Print Receipt
+Choice -> 5
+Cost of items:      $0.00
+Coupons applied:    0
+Coupon savings:     $0.00
+Bonus discount:     15%
+Subtotal:           $0.00
+Tax:                $0.00
+Total owed:         $0.00
+
+0) Checkout
+1) Add Item
+2) Remove Item
+3) Add Coupon
+4) Set Bonus
+5) Print Receipt
+Choice -> 0
+You are ready to checkout!
+You don't need to pay anything!
+Goodbye.

@@ -1,0 +1,90 @@
+Would you like to enter a file name to initialize the checkout? (y/n) -> n
+
+0) Checkout
+1) Add Item
+2) Remove Item
+3) Add Coupon
+4) Set Bonus
+5) Print Receipt
+Choice -> 6
+Invalid choice
+
+0) Checkout
+1) Add Item
+2) Remove Item
+3) Add Coupon
+4) Set Bonus
+5) Print Receipt
+Choice -> 1
+Enter the price of the item to add -> 1.09
+Added item!
+
+0) Checkout
+1) Add Item
+2) Remove Item
+3) Add Coupon
+4) Set Bonus
+5) Print Receipt
+Choice -> 3
+Enter the discount of the coupon to add -> .50
+Coupon accepted!
+
+0) Checkout
+1) Add Item
+2) Remove Item
+3) Add Coupon
+4) Set Bonus
+5) Print Receipt
+Choice -> 5
+Cost of items:      $1.09
+Coupons applied:    1
+Coupon savings:     $0.50
+Bonus discount:     0%
+Subtotal:           $0.59
+Tax:                $0.04
+Total owed:         $0.63
+
+0) Checkout
+1) Add Item
+2) Remove Item
+3) Add Coupon
+4) Set Bonus
+5) Print Receipt
+Choice -> 1
+Enter the price of the item to add -> .89
+Added item!
+
+0) Checkout
+1) Add Item
+2) Remove Item
+3) Add Coupon
+4) Set Bonus
+5) Print Receipt
+Choice -> 5
+Cost of items:      $1.98
+Coupons applied:    1
+Coupon savings:     $0.50
+Bonus discount:     0%
+Subtotal:           $1.48
+Tax:                $0.09
+Total owed:         $1.57
+
+0) Checkout
+1) Add Item
+2) Remove Item
+3) Add Coupon
+4) Set Bonus
+5) Print Receipt
+Choice -> 0
+You are ready to checkout!
+The total cost with tax is $1.57
+How much money will you give the cashier? -> 2.00
+Amount paid!
+
+The change that is owed back to you is $0.43
+The cashier will give you:
+1 quarter(s)
+1 dime(s)
+1 nickel(s)
+3 penny(ies)
+Goodbye.

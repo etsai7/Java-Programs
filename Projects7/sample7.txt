@@ -1,0 +1,39 @@
+Would you like to enter a file name to initialize the checkout? (y/n) -> y
+Enter the file name to initialize the checkout -> input7.txt
+
+0) Checkout
+1) Add Item
+2) Remove Item
+3) Add Coupon
+4) Set Bonus
+5) Print Receipt
+Choice -> 5
+Cost of items:      $1.50
+Coupons applied:    1
+Coupon savings:     $0.20
+Bonus discount:     0%
+Subtotal:           $1.30
+Tax:                $0.08
+Total owed:         $1.38
+
+0) Checkout
+1) Add Item
+2) Remove Item
+3) Add Coupon
+4) Set Bonus
+5) Print Receipt
+Choice -> 0
+You are ready to checkout!
+The total cost with tax is $1.38
+How much money will you give the cashier? -> 20
+Amount paid!
+
+The change that is owed back to you is $18.62
+The cashier will give you:
+1 ten-dollar bill(s)
+1 five-dollar bill(s)
+3 one-dollar bill(s)
+2 quarter(s)
+1 dime(s)
+2 penny(ies)
+Goodbye.
