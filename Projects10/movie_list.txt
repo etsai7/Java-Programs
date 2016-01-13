@@ -1,0 +1,9 @@
+8
+T The Avengers: Age of Ultron, 142, 13.5, 5.5
+m Cinderella, 105, 9.75
+I Furious 7, 137, 10, 2
+M The Imitation Game, 114, 11.33
+M American Sniper, 132, 13
+T Insurgent, 119, 10, 4.30 
+i Home, 94, 9, 2
+m Still Alice, 101, 8

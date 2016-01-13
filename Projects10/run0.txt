@@ -1,0 +1,332 @@
+Enter the movie list file -> movie_list.txt
+Add movies!
+Enter the filename with all the town information -> theaters.txt
+Add town information!
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 2
+Theater 0:
+The Avengers: Age of Ultron - 142 minutes - $19.00
+	 times: 8:00am, 4:00pm, 10:00pm
+
+Theater 1:
+Cinderella - 105 minutes - $9.75
+	 times: 8:30am, 11:00am, 12:00pm, 11:30pm
+The Avengers: Age of Ultron - 142 minutes - $19.00
+	 times: 1:30am, 2:34am, 12:00pm, 1:30pm, 2:34pm
+
+
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 3
+Cinderella - 105 minutes - $9.75
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 1
+Which theater number do you want to add a movie to [0, 1] -> 1
+Title of movie you want to add -> Home
+Enter the movie times, all on one line seperated by a space -> 6:66pm 10:00am 1:30pm
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 2
+Theater 0:
+The Avengers: Age of Ultron - 142 minutes - $19.00
+	 times: 8:00am, 4:00pm, 10:00pm
+
+Theater 1:
+Cinderella - 105 minutes - $9.75
+	 times: 8:30am, 11:00am, 12:00pm, 11:30pm
+Home - 94 minutes - $18.00
+	 times: 10:00am, 1:30pm, 6:66pm
+The Avengers: Age of Ultron - 142 minutes - $19.00
+	 times: 1:30am, 2:34am, 12:00pm, 1:30pm, 2:34pm
+
+
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 3
+Cinderella - 105 minutes - $9.75
+Home - 94 minutes - $18.00
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 4
+Enter a title -> Enter a title -> avengers
+The Avengers: Age of Ultron - 142 minutes - $19.00
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 4
+Enter a title -> Enter a title -> cin
+Cinderella - 105 minutes - $9.75
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 5
+Movies: 
+Cinderella - 105 minutes - $9.75
+The Imitation Game - 114 minutes - $11.33
+American Sniper - 132 minutes - $13.00
+Still Alice - 101 minutes - $8.00
+
+3D Movies: 
+The Avengers: Age of Ultron - 142 minutes - $19.00
+Insurgent - 119 minutes - $14.30
+
+IMAX Movies: 
+Furious 7 - 137 minutes - $20.00
+Home - 94 minutes - $18.00
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 2
+Theater 0:
+The Avengers: Age of Ultron - 142 minutes - $19.00
+	 times: 8:00am, 4:00pm, 10:00pm
+
+Theater 1:
+Cinderella - 105 minutes - $9.75
+	 times: 8:30am, 11:00am, 12:00pm, 11:30pm
+Home - 94 minutes - $18.00
+	 times: 10:00am, 1:30pm, 6:66pm
+The Avengers: Age of Ultron - 142 minutes - $19.00
+	 times: 1:30am, 2:34am, 12:00pm, 1:30pm, 2:34pm
+
+
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 6
+Enter the approximate start time (e.g. 1:30pm) -> 2:30pm
+Theater 0:
+
+Theater 1:
+The Avengers: Age of Ultron - 142 minutes - $19.00
+	 times: 1:30am, 2:34am, 12:00pm, 1:30pm, 2:34pm
+
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 6
+Enter the approximate start time (e.g. 1:30pm) -> 12:15pm
+Theater 0:
+
+Theater 1:
+Cinderella - 105 minutes - $9.75
+	 times: 8:30am, 11:00am, 12:00pm, 11:30pm
+The Avengers: Age of Ultron - 142 minutes - $19.00
+	 times: 1:30am, 2:34am, 12:00pm, 1:30pm, 2:34pm
+
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 6
+Enter the approximate start time (e.g. 1:30pm) -> 12:16pm
+Theater 0:
+
+Theater 1:
+
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 6
+Enter the approximate start time (e.g. 1:30pm) -> 11:45am
+Theater 0:
+
+Theater 1:
+Cinderella - 105 minutes - $9.75
+	 times: 8:30am, 11:00am, 12:00pm, 11:30pm
+The Avengers: Age of Ultron - 142 minutes - $19.00
+	 times: 1:30am, 2:34am, 12:00pm, 1:30pm, 2:34pm
+
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 6
+Enter the approximate start time (e.g. 1:30pm) -> 11:44am
+Theater 0:
+
+Theater 1:
+
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 7
+Enter the approximate end time (e.g. 1:30pm) -> 1:30pm
+Theater 0:
+
+Theater 1:
+Cinderella - 105 minutes - $9.75
+	 times: 8:30am, 11:00am, 12:00pm, 11:30pm
+
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 7
+Enter the approximate end time (e.g. 1:30pm) -> 2:01pm
+Theater 0:
+
+Theater 1:
+
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 7
+Enter the approximate end time (e.g. 1:30pm) -> 2:00pm
+Theater 0:
+
+Theater 1:
+Cinderella - 105 minutes - $9.75
+	 times: 8:30am, 11:00am, 12:00pm, 11:30pm
+
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 7
+Enter the approximate end time (e.g. 1:30pm) -> 1:30pm
+Theater 0:
+
+Theater 1:
+Cinderella - 105 minutes - $9.75
+	 times: 8:30am, 11:00am, 12:00pm, 11:30pm
+
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 7
+Enter the approximate end time (e.g. 1:30pm) -> 1:29pm
+Theater 0:
+
+Theater 1:
+
+
+0) Quit
+1) Add Movie to Theater
+2) Print all theaters in the town and its movie showings
+3) Print movies that appear at one theater
+4) Print movies whose titles contain a certain word
+5) Print movies by category
+6) Print movie showings that are around a certain time
+7) Print movie showings that end before a certain time
+Choice -> 0
+Goodbye
+

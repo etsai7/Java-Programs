@@ -1,0 +1,4 @@
+2
+1       The Avengers: Age of Ultron,   1:30pm         12:00pm        2:34pm        2:34am     1:30am
+1   Cinderella, 8:30am         11:30pm 11:00am   12:00pm
+0     The Avengers: Age of Ultron, 10:00pm 4:00pm 8:00am
