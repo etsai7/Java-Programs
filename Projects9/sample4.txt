@@ -1,0 +1,74 @@
+Drive: Parking Lot Navigation!  :)
+This game requires the name of a text file describing the lot.
+Enter filename -> lot4.txt
+Your car will be represented by a U on the lot.  Your goal is to get your car down to
+the bottom row.For the rest of the game, use the following keys to navigate your car:
+w or W: move up
+s or S: move down
+a or A: move left
+d or D: move right
+
+Here we go...
+
+U C  C  
+C       
+  CCC  C
+CCC     
+
+direction (w/s/a/d) -> d
+
+.UC  C  
+C       
+  CCC  C
+CCC     
+
+direction (w/s/a/d) -> s
+
+..C  C  
+CU      
+  CCC  C
+CCC     
+
+direction (w/s/a/d) -> d
+
+..C  C  
+C.U     
+  CCC  C
+CCC     
+
+direction (w/s/a/d) -> d
+
+..C  C  
+C..U    
+  CCC  C
+CCC     
+
+direction (w/s/a/d) -> d
+
+..C  C  
+C...U   
+  CCC  C
+CCC     
+
+direction (w/s/a/d) -> d
+
+..C  C  
+C....U  
+  CCC  C
+CCC     
+
+direction (w/s/a/d) -> s
+
+..C  C  
+C.....  
+  CCCU C
+CCC     
+
+direction (w/s/a/d) -> s
+
+You made it in 8 moves!
+..C  C  
+C.....  
+  CCC. C
+CCC  U  
+
